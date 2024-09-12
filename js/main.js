@@ -1,5 +1,6 @@
 'use strict'
 
 function onBallClick(){
-console.log('You clicked the ball!')
+    const elBall = document.querySelector('.ball')
+    elBall.style.backgroundColor = 'blue'
 }
