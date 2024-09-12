@@ -18,3 +18,16 @@ h1{
     font-weight: bold;
     transition: 1s;
 }
+
+.ball2{
+    border-radius: 50%;
+    width: 100px;
+    max-width: 400px;
+    height: 100px;
+    background-color: rgb(192, 255, 246);
+    text-align: center;
+    margin: auto;
+    font-size: 22px;
+    font-weight: bold;
+    transition: 1s;
+}
