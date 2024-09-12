@@ -9,10 +9,12 @@ h1{
 .ball{
     border-radius: 50%;
     width: 100px;
+    max-width: 400px;
     height: 100px;
     background-color: pink;
     text-align: center;
     margin: auto;
     font-size: 22px;
     font-weight: bold;
+    transition: 1s;
 }
